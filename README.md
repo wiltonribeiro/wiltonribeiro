@@ -1,6 +1,6 @@
 ### Hi there 🤓
 
-My name is Wilton Neto, a Software Engineering student at the Federal University of Ceará - Brazil. <br/>
+My name is Wilton Neto, a Software Engineer living in Brazil. <br/>
 Yep, nice to meet ya!
 
 Btw, all the code inside this Github account was approved by the Empire, ok?
