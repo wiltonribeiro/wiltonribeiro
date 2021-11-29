@@ -12,6 +12,6 @@ Btw, all the code inside this Github account was approved by the Empire, ok?
 
 You can also find me on these accounts!
 
-[<img src="https://image.flaticon.com/icons/svg/733/733614.svg" alt="Instagram logo" width="24">](https://www.instagram.com/neto_will)
-[<img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="LinkedIn logo" width="24">](https://www.linkedin.com/in/wiltonribeiro/)
-[<img src="https://image.flaticon.com/icons/svg/2111/2111505.svg" alt="Medium logo" width="24">](https://medium.com/@wiltonrcn)
+[Instagram](https://www.instagram.com/neto_will)
+[LinkedIn](https://www.linkedin.com/in/wiltonribeiro/)
+[Medium](https://medium.com/@wiltonrcn)
